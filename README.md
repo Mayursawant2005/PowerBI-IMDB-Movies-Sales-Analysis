@@ -1,4 +1,5 @@
 🎬 Power BI – IMDb Movies Sales Analysis
+
 📌 Project Overview
 
 This project analyzes IMDb movie data to uncover insights related to movie sales performance, audience ratings, genres, budgets, and revenue trends.
